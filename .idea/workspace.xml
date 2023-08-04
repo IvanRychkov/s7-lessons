@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5880933b-28a3-4b9c-829f-d6f6bc7e67c5" name="Changes" comment="progress">
-      <change afterPath="$PROJECT_DIR$/spark_cache.ipynb" afterDir="false" />
+    <list default="true" id="5880933b-28a3-4b9c-829f-d6f6bc7e67c5" name="Changes" comment="checkpoint">
+      <change afterPath="$PROJECT_DIR$/spark_functions.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark_tranform.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/spark_tranform.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/7. Операции с DataFrame кэширование и контрольные точки/Задание 1/realization.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/7. Операции с DataFrame кэширование и контрольные точки/Задание 1/realization.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/7. Операции с DataFrame кэширование и контрольные точки/Задание 2/precode.py" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/7. Операции с DataFrame кэширование и контрольные точки/Задание 2/precode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/7. Операции с DataFrame кэширование и контрольные точки/Задание 2/realization.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/7. Операции с DataFrame кэширование и контрольные точки/Задание 2/realization.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 1/realization.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 1/realization.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 2/realization.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 2/realization.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 3/realization.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 3/realization.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.submit (4)">
+  <component name="RunManager" selected="Python.submit (1)">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="s7-lessons" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,34 +92,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/6. Операции с DataFrame JOIN и UNION/Задание 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/6. Операции с DataFrame JOIN и UNION/Задание 3/submit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="submit (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="s7-lessons" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/6. Операции с DataFrame JOIN и UNION/Задание 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/6. Операции с DataFrame JOIN и UNION/Задание 4/submit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 3/submit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,12 +158,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/6. Операции с DataFrame JOIN и UNION/Задание 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/6. Операции с DataFrame JOIN и UNION/Задание 2/submit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 2/submit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="submit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="s7-lessons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 1/submit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.submit (4)" />
-        <item itemvalue="Python.submit (3)" />
-        <item itemvalue="Python.submit (2)" />
         <item itemvalue="Python.submit (1)" />
         <item itemvalue="Python.submit (5)" />
+        <item itemvalue="Python.submit" />
+        <item itemvalue="Python.submit (4)" />
+        <item itemvalue="Python.submit (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +223,7 @@
       <workItem from="1690021309862" duration="3067000" />
       <workItem from="1690026082442" duration="13056000" />
       <workItem from="1690111477921" duration="3484000" />
-      <workItem from="1690123017048" duration="7936000" />
+      <workItem from="1690123017048" duration="13344000" />
     </task>
     <task id="LOCAL-00001" summary="add ip">
       <created>1690032205976</created>
@@ -253,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690144953639</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="checkpoint">
+      <created>1690911700351</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690911700351</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,12 +271,13 @@
     <MESSAGE value="spark connection done" />
     <MESSAGE value=".idea filez" />
     <MESSAGE value="progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="progress" />
+    <MESSAGE value="checkpoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="checkpoint" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/s7_lessons$submit__1_.coverage" NAME="submit (1) Coverage Results" MODIFIED="1690143655606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/6. Операции с DataFrame JOIN и UNION/Задание 3" />
-    <SUITE FILE_PATH="coverage/s7_lessons$submit.coverage" NAME="submit Coverage Results" MODIFIED="1690143439734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/6. Операции с DataFrame JOIN и UNION/Задание 1" />
-    <SUITE FILE_PATH="coverage/s7_lessons$submit__5_.coverage" NAME="submit (5) Coverage Results" MODIFIED="1690143537774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/6. Операции с DataFrame JOIN и UNION/Задание 2" />
+    <SUITE FILE_PATH="coverage/s7_lessons$submit__1_.coverage" NAME="submit (1) Coverage Results" MODIFIED="1690915513939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 3" />
+    <SUITE FILE_PATH="coverage/s7_lessons$submit.coverage" NAME="submit Coverage Results" MODIFIED="1690913864410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 1" />
+    <SUITE FILE_PATH="coverage/s7_lessons$submit__5_.coverage" NAME="submit (5) Coverage Results" MODIFIED="1690914230005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/8. Встроенные стандартные функции/Задание 2" />
     <SUITE FILE_PATH="coverage/s7_lessons$submit__2_.coverage" NAME="submit (2) Coverage Results" MODIFIED="1690144271548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/6. Операции с DataFrame JOIN и UNION/Задание 4" />
     <SUITE FILE_PATH="coverage/s7_lessons$submit__3_.coverage" NAME="submit (3) Coverage Results" MODIFIED="1690145520829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/7. Операции с DataFrame кэширование и контрольные точки/Задание 1" />
     <SUITE FILE_PATH="coverage/s7_lessons$submit__4_.coverage" NAME="submit (4) Coverage Results" MODIFIED="1690146121201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Тема 4. PySpark для инженера данных/7. Операции с DataFrame кэширование и контрольные точки/Задание 2" />
