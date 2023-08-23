@@ -5,6 +5,13 @@
       <list>
         <JupyterConnectionParameters>
           <option name="authType" value="notebook" />
+          <option name="urlString" value="http://158.160.41.204:8888" />
+          <authParams2>
+            <map />
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
           <option name="urlString" value="http://84.201.156.22:8888" />
           <authParams2>
             <map />
@@ -18,7 +25,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="authType" value="notebook" />
-              <option name="urlString" value="http://84.201.156.22:8888" />
+              <option name="urlString" value="http://158.160.41.204:8888" />
               <authParams2>
                 <map />
               </authParams2>
